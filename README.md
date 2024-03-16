@@ -7,6 +7,7 @@ Thanks to [Data with Marc](https://www.youtube.com/watch?v=AjsB6lM2-zw).
 ---
 
 Dataset → https://www.kaggle.com/datasets/kushagra1211/usa-sales-product-datasetcleaned
+
 Notion → https://robust-dinosaur-2ef.notion.site/DuckDB-Tutorial-Getting-started-for-beginners-b80bf0de8d6142d6979e78e59ffbbefe
 
 ## Dependencies
